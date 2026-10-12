@@ -1,25 +1,43 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=E8DDF5&height=170&section=header&text=Tejasri%20Chowdavarapu&fontSize=36&fontColor=514568&fontAlignY=48&desc=CSE%20%7C%20Artificial%20Intelligence%20%26%20Machine%20Learning&descSize=13&descAlignY=72" width="100%" /><br/><img src="https://img.shields.io/badge/Python-CDBBEA?style=flat-square&logo=python&logoColor=514568" />
-<img src="https://img.shields.io/badge/Machine_Learning-E8DDF5?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-F5E8F2?style=flat-square&logo=streamlit&logoColor=514568" /></div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=E6D9F5&height=170&section=header&text=Tejasri%20୨୧&fontSize=48&fontColor=55446D&fontAlignY=45&desc=CSE%20%7C%20AI%20%26%20ML&descAlignY=70&descSize=16" width="100%" /><br/>hey, i'm Tejasri — welcome to my GitHub.
 
-୨୧ About
+🎀   AI/ML · Python · Projects
 
-CSE student at SRM University AP, specializing in AI & ML.
+</div>---
 
-Interested in machine learning, data science, and building interactive applications.
+୨୧ about
 
-♡ Tech stack
+- 🎓 CSE student at SRM University AP
+- 🪻 Interested in machine learning and data science
+- 💻 Exploring Python and building ML applications
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" /><br/>"NumPy" · "Pandas" · "Scikit-learn" · "Streamlit"
+♡ tech stack
 
-</div>🪻 Projects
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" alt="Python, Git, GitHub and VS Code"/>
+</p><p align="center">
+<img src="https://img.shields.io/badge/NumPy-E6D9F5?style=flat-square" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-E6D9F5?style=flat-square" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--learn-E6D9F5?style=flat-square" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Streamlit-E6D9F5?style=flat-square" alt="Streamlit"/>
+</p>🩰 featured project
 
-MedSignal — "Live demo" (https://medsignal03.streamlit.app/) · "Repository" (https://github.com/tejasrichowdavarapu/Medsignal-)
+"MedSignal" (https://github.com/tejasrichowdavarapu/Medsignal-)
 
-An educational heart-disease prediction application built using machine learning.
+An educational medical ML application exploring heart-disease prediction.
 
-✿ GitHub stats
+- Python, Pandas and Scikit-learn
+- Interactive Streamlit application
+- "↗ Try the live demo" (https://medsignal03.streamlit.app/)
 
-<div align="center"><img height="160" src="https://github-readme-stats.vercel.app/api?username=tejasrichowdavarapu&show_icons=true&hide_border=true&bg_color=FBF8FF&title_color=8B72AE&icon_color=B69AD7&text_color=62576F" /><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasrichowdavarapu&layout=compact&hide_border=true&bg_color=FBF8FF&title_color=8B72AE&text_color=62576F" /></div>---
+<sub>Educational prototype, not a medical diagnostic tool.</sub>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=E8DDF5&height=90&section=footer" width="100%" /></div>
+✧ GitHub stats
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tejasrichowdavarapu&show_icons=true&hide_border=true&bg_color=FBF8FF&title_color=9073B5&icon_color=B49AD5&text_color=62566F" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasrichowdavarapu&layout=compact&hide_border=true&bg_color=FBF8FF&title_color=9073B5&text_color=62566F" alt="Top languages"/>
+</p>🎀 contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/tejasrichowdavarapu/tejasrichowdavarapu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation — requires GitHub Actions setup"/>
+</p><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=E6D9F5&height=90&section=footer" width="100%" /></div>
